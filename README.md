@@ -3,7 +3,7 @@
 A clean, responsive web app that generates motivational quotes on button click.
 
   Live Demo  
-[View it on GitHub Pages](https://narendrakp222.github.io/Quote-Generator/)
+[(https://narendrakp222.github.io/Quote-Generator/)
 
  🛠️ Built With  
 - HTML · CSS · JavaScript  
