@@ -1,0 +1,66 @@
+*{
+margin:0%;
+padding:0%;
+box-sizing:border-box;
+}
+
+html,body{
+height:100%;
+width:100%;
+}
+
+body{
+
+    
+background-color: rgb(15, 212, 219);
+
+
+}
+
+
+.container{
+height:100vh;
+width: 95%;
+display: flex;
+
+}
+
+.quotes{
+
+ border: 1px solid black;
+ width: 900px;
+ height: 450px;
+ margin: auto;
+ display: flex;
+ justify-content: center;
+align-items: center;
+flex-direction: column;
+padding: 0 50px;
+color: grey;
+background-color: #f4edea;
+border: 10px solid balck;
+}
+
+#quote{
+font-size: 1.5rem;
+
+}
+
+#author{
+    font-size: 1.5rem;
+}
+
+.button{
+
+    text-align: center;
+
+
+}
+
+.button button{
+
+padding: 15px 22px;
+margin-bottom: 22px;
+border-radius: 50%;
+
+}
